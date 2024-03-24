@@ -22,12 +22,12 @@ repository               : "nagendrapalani/nagendrapalani.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Nagendra"
+  name             : "Nagendra Palani"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Researcher - human & microbial metabolism"
   location         : "Copenhagen, Denmark"
-  employer         : "Novo Nordisk Foundation Center for Basic Metabolic Research"
-  uri              : # URL
+  employer         : "NNF CBMR / Univ Copenhagen"
+  uri              : "https://cbmr.ku.dk/staff-overview/scheele-group/?pure=en/persons/675333"
   email            : "nagendra.palani#sund.ku.dk" 
 
   # Academic websites
