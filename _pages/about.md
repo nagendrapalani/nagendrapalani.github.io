@@ -1,16 +1,14 @@
 ---
 permalink: /
-title: "Researcher in adipose metabolism @ University of Copenhagen"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a postdoctoral researcher at [Center for Basic Metabolic Research.](https://cbmr.ku.dk/) 
+I am a postdoctoral researcher at the [Center for Basic Metabolic Research.](https://cbmr.ku.dk/), University of Copenhagen. 
 
-Research interests
-======
 
 Translational metabolism in humans
 --------
